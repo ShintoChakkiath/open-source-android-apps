@@ -1,7 +1,7 @@
 ## Communication  
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+:------------------------:  | :------------------------:  | :------------------------: | :------------------------: 
  | | | 
 
 ### A  
@@ -48,6 +48,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [IRCCloud](https://github.com/irccloud/android) | The official Android app for IRCCloud.com | Java | [![Get it On Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.irccloud.android)
+[INSIGHT-MESSENGER](https://github.com/ShintoChakkiath/INSIGHT-MESSENGER) | MESSAGING APP FOR DISABLED PEOPLE | Java |
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
